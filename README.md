@@ -1,2 +1,65 @@
-<p><strong>How To Use:</strong><br>Extract Zip file<br>You will need to have steam running and logged into an account that owns rust.&nbsp;<br>It will use Facepunch.Steamworks.Win32.dll and steam_api.dll to login to steamcmd<br>They have been bundled with this otherwise you can get the latest versions from your rust client install folder.<br><br>If Windows is falsely flagging this exe as malicious, you will need to add an exception to windows security.<br>Go to Start &gt; Settings &gt; Update &amp; Security &gt; Windows Security &gt; Virus &amp; threat protection.&nbsp;<br>Under Virus &amp; threat protection settings, select Manage settings,&nbsp;<br>and then, under Exclusions, select Add or remove exclusions.<br>Select Add an exclusion<br><br>Run Spray_Wallpaper_Creator.exe<br>Enter a title.<br>Select wallpaper if creating wallpaper or leave to create a spray decal.<br>Enter Description<br>Change Permissions.<br>Click Create Item. (This will create a workshop item on steam and a folder with that workshop id on your computer)<br>Select Image.<br>If pngquant.exe is in the same folder as Spray_Wallpaper_Creator compression will be enabled on images.<br>Images will be edited to correct size and manifest to the workshop ID folder.<br>Click Upload and the workshop ID folder will be uploaded from your computer to steams workshop.<br>You can hand edit the manifest and images before clicking upload if you want.<br>Once done close program.<br>You can edit a existing workshop item if you have a folder with the same name.<br>Click edit and enter that ID.</p>
-<p>*Note when uploading edits, They won't take effect on clients that have already downloaded the skin until the next time steam does an update check.<br><br>Screen Shoot:<br><img src="https://github.com/bmgjet/Spray_Wallpaper_Creator/blob/main/screenshot.png?raw=true" alt="ScreenShot">&nbsp;<br><br><strong>Video:</strong> https://www.youtube.com/watch?v=sknO8PPw7fU&nbsp;<br><strong>Virus Total Report:</strong> https://www.virustotal.com/gui/file/2d92c7ce194411aff1fdef2326585a1973d2fd5d5b331259cfc5f6f1082865e1</p>
+<h2>How to Use</h2>
+<ol>
+    <li><strong>Extract the ZIP file.</strong></li>
+    <li><strong>Ensure Steam is running:</strong>
+        <ul>
+            <li>You must be logged into a Steam account that owns <i>Rust</i>.</li>
+            <li>The program uses <code>Facepunch.Steamworks.Win32.dll</code> and <code>steam_api.dll</code> to log in.</li>
+            <li>These files are bundled with the software. If needed, you can find the latest versions in your <i>Rust</i> installation folder.</li>
+        </ul>
+    </li>
+    <li>
+        <p><strong>Dealing with Windows Security warnings (if applicable):</strong></p>
+        <p>If Windows flags the <code>.exe</code> file as malicious, follow these steps to add an exception:</p>
+        <ol>
+            <li>Go to <strong>Start &gt; Settings &gt; Update &amp; Security &gt; Windows Security &gt; Virus &amp; Threat Protection</strong>.</li>
+            <li>Under <strong>Virus &amp; Threat Protection Settings</strong>, select <strong>Manage Settings</strong>.</li>
+            <li>Scroll down to <strong>Exclusions</strong> and select <strong>Add or Remove Exclusions</strong>.</li>
+            <li>Click <strong>Add an exclusion</strong> and follow the prompts to exclude the program.</li>
+        </ol>
+    </li>
+    <li><strong>Running the Program:</strong>
+        <ul>
+            <li>Run <code>Spray_Wallpaper_Creator.exe</code>.</li>
+        </ul>
+    </li>
+    <li><strong>Create an Item:</strong>
+        <ol>
+            <li><strong>Enter a title</strong> for your item.</li>
+            <li><strong>Select wallpaper</strong> if you’re creating one.</li>
+            <li><strong>Enter a description</strong>.</li>
+            <li><strong>Adjust permissions</strong> as needed.</li>
+            <li>Click <strong>Create Item</strong>. This will create a workshop item on Steam and generate a folder on your computer with the workshop ID.</li>
+        </ol>
+    </li>
+    <li><strong>Selecting and Compressing Images:</strong>
+        <ul>
+            <li><strong>Select an image</strong> for your item.</li>
+            <li>If <code>pngquant.exe</code> is located in the same folder as <code>Spray_Wallpaper_Creator</code> and MSVC++2015 framework is installed, image compression will be enabled automatically.</li>
+            <li>The images will be resized and added to the workshop ID folder.</li>
+        </ul>
+    </li>
+    <li><strong>Upload to Steam Workshop:</strong>
+        <ul>
+            <li>You can manually edit the manifest or images before uploading if needed.</li>
+            <li>Click <strong>Upload</strong> to send the workshop ID folder to the Steam Workshop.</li>
+            <li>Once your item is uploaded or edited, simply close the program.</li>
+        </ul>
+    </li>
+    <li><strong>Editing an Existing Workshop Item:</strong>
+        <ul>
+            <li>To edit an existing item, ensure you have a folder with the corresponding workshop ID.</li>
+            <li>Click <strong>Edit</strong> and enter the workshop ID to make updates.</li>
+        </ul>
+    </li>
+    <li>
+        <p><strong>Important Note:</strong></p>
+        <p>When uploading edits, the changes won't take effect for users who have already downloaded the skin until Steam performs its next update check.</p>
+    </li>
+</ol>
+<h2><strong>Video:</strong>&nbsp;</h2>
+<p>https://www.youtube.com/watch?v=sknO8PPw7fU<br>&nbsp;</p>
+<h2><strong>Virus Total Report:</strong>&nbsp;</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.virustotal.com/gui/file/2d92c7ce194411aff1fdef2326585a1973d2fd5d5b331259cfc5f6f1082865e1">https://www.virustotal.com/gui/file/2d92c7ce194411aff1fdef2326585a1973d2fd5d5b331259cfc5f6f1082865e1</a></p>
+<h2><br><strong>Screen Shoot:</strong></h2>
+<p><br><img src="https://github.com/bmgjet/Spray_Wallpaper_Creator/blob/main/screenshot.png?raw=true" alt="ScreenShot">&nbsp;<br><br>&nbsp;</p>
