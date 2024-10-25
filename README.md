@@ -62,5 +62,6 @@
 <h2><strong>Virus Total Report:</strong>&nbsp;</h2>
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.virustotal.com/gui/file/2d92c7ce194411aff1fdef2326585a1973d2fd5d5b331259cfc5f6f1082865e1">Version 1.0.0 https://www.virustotal.com/gui/file/2d92c7ce194411aff1fdef2326585a1973d2fd5d5b331259cfc5f6f1082865e1</a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.virustotal.com/gui/file/76b85234622f8ec50b7522060457e41824c3cacf3d0bd2bc8cf46552ab29949e/">Version 1.0.1 https://www.virustotal.com/gui/file/76b85234622f8ec50b7522060457e41824c3cacf3d0bd2bc8cf46552ab29949e</a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.virustotal.com/gui/file/1bca341055b202511694cb643f99c12f49ee0ff9233eb4c5b819bd498a1d23d1">Version 1.0.2 https://www.virustotal.com/gui/file/1bca341055b202511694cb643f99c12f49ee0ff9233eb4c5b819bd498a1d23d1</a></p>
 <h2><br><strong>Screen Shoot:</strong></h2>
 <p><br><img src="https://github.com/bmgjet/Spray_Wallpaper_Creator/blob/main/screenshot.png?raw=true" alt="ScreenShot">&nbsp;<br><br>&nbsp;</p>
